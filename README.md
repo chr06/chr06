@@ -35,14 +35,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=chr06&show_icons=true&theme=tokyonight" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr06&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📌 担当した主なプロジェクト
 
 - **プロジェクト参加者のフィードバック・活動ログ可視化アプリ開発**  
