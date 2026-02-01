@@ -29,7 +29,7 @@
 - AWS（Lambda、S3、EC2, CloudFront, Amazon Aurora, RDS など）
 
 ### Tools & Others
-- Git / GitHub
+- Git / GitHub / GitHub Action
 - Figma
 - Docker
 
@@ -38,10 +38,11 @@
 ## 📌 担当した主なプロジェクト
 
 - **プロジェクト参加者のフィードバック・活動ログ可視化アプリ開発**  
-  （TypeScript / React / MUI / AWS）
+  （TypeScript / React / MUI / AWS / GitHub Action）
   - プロジェクトに参加したユーザーからフィードバックを収集  
   - フィードバックログの集計・可視化
   - 新規開発
+  - CI/CD 構築
 
 - **マッチングアプリ開発**  
   （TypeScript / Next.js / Tailwind CSS）
