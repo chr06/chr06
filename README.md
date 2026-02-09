@@ -35,6 +35,25 @@
 
 ---
 
+## 🚀 ポートフォリオ
+
+### 💬 リアルタイムチャットアプリ（chat-app-portfolio）
+
+**🔗 デモURL：** [https://chat-app-portfolio-platform.web.app/](https://chat-app-portfolio-platform.web.app/)
+
+Vue 3 + Firebase で構築されたリアルタイムチャットアプリケーションです。
+
+**主な機能**
+- Googleアカウントでのログイン（承認制）
+- 1対1のダイレクトメッセージ
+- リッチテキスト・画像送信・絵文字リアクション
+- レスポンシブ対応（モバイル〜デスクトップ）
+
+**技術構成**
+- Vue 3 / TypeScript / Tailwind CSS
+- Firebase（Authentication / Firestore / Storage）
+---
+
 ## 📌 担当した主なプロジェクト
 
 - **マッチングアプリ開発**  
