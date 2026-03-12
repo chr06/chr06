@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 ### Frontend
-- **Vue.js / React / Next.js**
+- **Next.js / React / Vue.js**
 - **TypeScript / JavaScript**
 - Tailwind CSS / Vuetify / MUI
 - HTML / CSS
